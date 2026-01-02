@@ -1,8 +1,30 @@
 {
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 3,
-    "settings": {},
-    "styles": {},
+    "settings": {
+        "typography": {
+            "customFontSize": false,
+            "dropCap": false,
+            "textDecoration": false,
+            "fontFamilies": [
+                {
+                    "name": "Primary",
+                    "slug": "primary",
+                    "fontFamily": "Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif"
+                },
+                {
+                    "name": "Secondary",
+                    "slug": "secondary",
+                    "fontFamily": "system-ui, sans-serif"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "typography": {
+            "fontFamily": "var(--wp--preset--font-family--primary)"
+        }
+    },
     "customTemplates": [],
     "templateParts": [],
     "patterns": []
