@@ -3,6 +3,10 @@
     "version": 3,
     "settings": {
         "appearanceTools": true,
+        "layout": {
+            "contentSize": "45rem",
+            "wideSize": "75rem"
+        },
         "typography": {
             "customFontSize": false,
             "dropCap": false,
@@ -32,6 +36,11 @@
             "name": "header",
             "title": "Header",
             "area": "header"
+        },
+        {
+            "name": "loop",
+            "title": "Loop",
+            "area": "uncategorized"
         }
     ],
     "patterns": []
