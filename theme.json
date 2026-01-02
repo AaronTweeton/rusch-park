@@ -41,6 +41,11 @@
             "name": "loop",
             "title": "Loop",
             "area": "uncategorized"
+        },
+        {
+            "name": "post-date-terms",
+            "title": "Post Date and Terms",
+            "area": "uncategorized"
         }
     ],
     "patterns": []
