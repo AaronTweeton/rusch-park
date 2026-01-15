@@ -43,6 +43,11 @@
             "area": "uncategorized"
         },
         {
+            "name": "news-grid",
+            "title": "News grid",
+            "area": "uncategorized"
+        },
+        {
             "name": "post-date-terms",
             "title": "Post Date and Terms",
             "area": "uncategorized"
