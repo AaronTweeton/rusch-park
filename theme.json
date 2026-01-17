@@ -3,6 +3,43 @@
     "version": 3,
     "settings": {
         "appearanceTools": true,
+        "color": {
+            "custom": false,
+            "customDuotone": false,
+            "customGradient": false,
+            "defaultDuotone": false,
+            "defaultGradients": false,
+            "defaultPalette": false,
+            "link": false,
+            "text": false,
+            "palette": [
+                {
+                    "color": "#ffffff",
+                    "name": "Base",
+                    "slug": "base"
+                },
+                {
+                    "color": "#002F82",
+                    "name": "Contrast",
+                    "slug": "contrast"
+                },
+                {
+                    "color": "#EB3B16",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "#FFB943",
+                    "name": "Orange",
+                    "slug": "orange"
+                },
+                {
+                    "color": "#00B3CD",
+                    "name": "Cerulean",
+                    "slug": "cerulean"
+                }
+            ]
+        },
         "layout": {
             "contentSize": "45rem",
             "wideSize": "75rem"
